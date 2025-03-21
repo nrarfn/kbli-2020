@@ -12,7 +12,7 @@ Repositori ini berisi daftar lengkap Klasifikasi Baku Lapangan Usaha Indonesia (
 ### Instalasi
 
 1. Clone repositori ini:
-> git clone https://github.com/username/kbli-2020.git
+> git clone https://github.com/nrarfn/kbli-2020.git
 2. Masuk ke direktori proyek:
 > cd kbli-2020
 3. Gunakan file sesuai kebutuhan:
